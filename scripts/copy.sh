@@ -1,0 +1,1 @@
+scp -r ../my-hyperledger-network akash@192.168.199.129:~/
